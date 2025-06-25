@@ -17,8 +17,8 @@ flutter run
 
 ## Screenshot
 
-![image](https://github.com/user-attachments/assets/8b813864-9104-4143-bb60-9dfa0d70e972)
+![image](https://github.com/user-attachments/assets/b476bb45-3cc1-447b-b4c1-6c88e7c415fd)
 
 
 *The app features three different picker modes with inline preseantations and 2 modal presentation options*
-- Author: Ange Nicole Mukundwa
+Author: Ange Nicole Mukundwa
