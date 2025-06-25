@@ -21,4 +21,4 @@ flutter run
 
 
 *The app features three different picker modes with inline preseantations and 2 modal presentation options*
-*Author: Ange Nicole Mukundwa*
+- Author: Ange Nicole Mukundwa
