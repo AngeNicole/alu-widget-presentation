@@ -17,7 +17,8 @@ flutter run
 
 ## Screenshot
 
-![Cupertino Date Time Picker Demo](screenshot.png)
+![image](https://github.com/user-attachments/assets/8b813864-9104-4143-bb60-9dfa0d70e972)
+
 
 *The app features three different picker modes with inline preseantations and 2 modal presentation options*
 *Author: Ange Nicole Mukundwa*
